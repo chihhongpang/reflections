@@ -1,0 +1,13 @@
+Use diff to find bugs are great to spot minor difference that might be the issue.
+
+So you can restore the old versions of file if you want to pinpoint to an issue.
+
+You can use your judgement call to decide when is the best time to committ without clutering the history or having too much changes at one point.
+
+One code change on one file could be affecting other code so they will need to be together. For Google Docs, one file is usually independent from each other, so it's okay to treat them separately.
+
+Compare what lines were removed and added using the commit ID
+
+You can always refer back to old versions if a bug was introduced in the new version.
+
+To control the version of my code.
