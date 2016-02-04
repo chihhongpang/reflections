@@ -1,3 +1,5 @@
 You created a master branch of the code base, and you still need to commit as the first change.
 
-Statging area can let you decide what needs to be in the changes
+Statging area can let you decide what needs to be in the changes.
+
+You can use diff to compare the changes between staging area and the repository.
