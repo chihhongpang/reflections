@@ -7,3 +7,5 @@ You can use diff to compare the changes between staging area and the repository.
 Branches will help when you have another feature to test and you can use diff to compare with any commit. Then once that's finished, you can merge the branches.
 
 Diagrams will help me understand how each commit stay in the branch.
+
+Two branches were merged and it's better to see it visually.
