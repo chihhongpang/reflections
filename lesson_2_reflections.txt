@@ -9,3 +9,5 @@ Branches will help when you have another feature to test and you can use diff to
 Diagrams will help me understand how each commit stay in the branch.
 
 Two branches were merged and it's better to see it visually.
+
+Saving you time.
