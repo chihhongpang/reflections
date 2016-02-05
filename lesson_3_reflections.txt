@@ -7,3 +7,5 @@ You may not want to pull some of the changes made by other people.
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Use forks when you want to modify a repository that you don't have permission to modify to your repository. Clone it when you need a local copy of it. Create branches when you have experimental features that will be different from the master branch.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+To prevent conflicts and merge safely.
