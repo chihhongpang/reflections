@@ -3,3 +3,7 @@ When I need to keep history or changes or collaborating a project with other peo
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may not want to pull some of the changes made by other people.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Use forks when you want to modify a repository that you don't have permission to modify to your repository. Clone it when you need a local copy of it. Create branches when you have experimental features that will be different from the master branch.
+
