@@ -9,3 +9,6 @@ Use forks when you want to modify a repository that you don't have permission to
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To prevent conflicts and merge safely.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would prefer sit with the people I'm working with and make sure we are not working on the same thing using something like dropbox or Google drive. Git or Github will be much easier because it is very powerful that you can see the list of changes figured out for you and comment on it if necessary.
