@@ -12,3 +12,6 @@ To prevent conflicts and merge safely.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would prefer sit with the people I'm working with and make sure we are not working on the same thing using something like dropbox or Google drive. Git or Github will be much easier because it is very powerful that you can see the list of changes figured out for you and comment on it if necessary.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I'm experimenting a new feature. Creating a branch will let the others to have a look at it and give you feedback. Put it to master directly is faster, but may be error-prone.
